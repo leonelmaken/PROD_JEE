@@ -1,0 +1,401 @@
+    1  sudo apt update
+    2  sudo update-grub
+    3  reboot
+    4  jdk
+    5  sudo apt openjdk-11-jdk-headless
+    6  sudo apt openjdk-8-jdk-headless
+    7  sudo apt openjdk-11-jdk-headless
+    8  sudo snap install vlc
+    9  sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.6.3-linux1/GitHubDesktop-linux-2.6.3-linux1.deb
+   10  sudo apt-get install gdebi-core
+   11  sudo gdebi /home/your_username/GitHubDesktop-linux-2.6.3-linux1.deb
+   12  sudo apt-get install gdebi
+   13  sudo apt openjdk-11-jdk-headless
+   14  sudo snap install vlc
+   15  code
+   16  vscodium
+   17  codium
+   18  vsc
+   19  vscode
+   20  sudo snap search vscode
+   21  sudo snap install vscode
+   22  sudo snap info vscode 
+   23  snap info vscode 
+   24  sudo snap install vscode --edge
+   25  sudo snap install vscode --beta
+   26  sudo snap install --edge vscode 
+   27  sudo snap install vscode --candidate
+   28  sudo snap install --beta vscode 
+   29  sudo snap update
+   30  sudo apt update
+   31  sudo apt search vscode
+   32  sudo apt search vscodium
+   33  sudo apt install code
+   34  sudo apt install software-properties-common apt-transport-https wget
+   35  sudo apt install software-properties-common apt-transport-https 
+   36  printenv > /tmp/tmp-8990yD2xQFFO2nhTtxt
+   37  sudo apt update
+   38  sudo apt install software-properties-common apt-transport-https 
+   39  sudo rm -r /var/lib/dpkg/lock-frontend
+   40  sudo apt install software-properties-common apt-transport-https 
+   41  sudo rm -r /var/lib/dpkg/lock
+   42  sudo apt install software-properties-common apt-transport-https 
+   43  sudo apt install wget
+   44  wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+   45  sudo add-apt-repository "deb https://packages.microsoft.com/repos/vscode stable main" 
+   46  sudo apt install code
+   47  sudo apt update
+   48  sudo apt-get install git
+   49  code
+   50  locate code
+   51  locate vscode
+   52  cd Téléchargements/
+   53  ls
+   54  sudo apt install zip
+   55  sudo apt update
+   56  sudo apt-get update
+   57  sudo apt-get upgrade -y
+   58  sudo apt-get install apache2 apache2-doc
+   59  sudo rm -r /var/lib/dpkg/lock-frontend
+   60  sudo apt-get install apache2 apache2-doc
+   61  sudo rm -r /var/lib/dpkg/lock
+   62  sudo apt-get install apache2 apache2-doc
+   63  sudo rm -r /var/lib/dpkg/lock
+   64  sudo apt-get install apache2 apache2-doc
+   65  sudo apt install apache2 apache2-doc
+   66  sudo apt update
+   67  sudo apt install apache2 apache2-doc
+   68  hostname -I
+   69  sudo service apache2 status
+   70  sudo apt-get install php5-common libapache2-mod-php5 php5-cli
+   71  sudo apt-get install php-common libapache2-mod-php php-cli
+   72  cd /var/www/html
+   73  sudo nano info.php
+   74  sudo apt-get install mysql-server
+   75  mysql_secure_installation
+   76  sudo nano info.php
+   77  mysql_secure_installation
+   78  sudo apt-get install phpmyadmin
+   79  sudo nano /etc/apache2/apache2.conf
+   80  sudo service apache2 restart
+   81  mysql -u root -p
+   82  sudo systemctl status apache2.service 
+   83  sudo nano /etc/apache2/apache2.conf
+   84  sudo service apache2 restart
+   85  sudo systemctl status apache2.service 
+   86  sudo nano /etc/apache2/apache2.conf
+   87  sudo service apache2 restart
+   88  sudo systemctl status apache2.service 
+   89  sudo nano /etc/apache2/apache2.conf
+   90  sudo service apache2 restart
+   91  sudo nano /etc/apache2/apache2.conf
+   92  sudo service apache2 restart
+   93  sudo nano /etc/apache2/apache2.conf
+   94  sudo service apache2 restart
+   95  mysql -u root -p
+   96  mysql -u root --skip-password
+   97  ls /etc/mysql/my.cnf
+   98  nano /etc/mysql/my.cnf
+   99  nano /etc/mysql/mysql.cnf
+  100  nano /etc/mysql/mysql.conf.d/
+  101  nano /etc/mysql/mysql.conf.d/mysqld
+  102  nano /etc/mysql/mysql.conf.d/mysqld.cnf 
+  103  mysql -u root --skip-password
+  104  mysql -u root -p
+  105  group
+  106  groups
+  107  mysql 
+  108  mysql -p
+  109  sudo mysql_secure_installation
+  110  mysql -u root -p
+  111  sudo mysql -u root -p
+  112  sudo service apache2 restart
+  113  sudo apt update 
+  114  sudo apt install dia
+  115  cd téléchargements
+  116  cd Téléchargements
+  117  ls
+  118  sudo chmod 755 xampp-linux-x6
+  119  clear
+  120  ls
+  121  sudo chmod 755 xampp-linux-64-8.1.4-1-installer.run
+  122  sudo chmod 755 xampp-linux-x64-8.1.4-1-installer.run
+  123  sudo ./xampp-linux-x64-8.1.4-1-installer.run
+  124  sudo apt update
+  125  sudo apt install jdk
+  126  clear
+  127  sudo apt-get purge openjdk-\*
+  128  sudo apt-get install software-properties-common
+  129  sudo apt autoremove
+  130  sudo apt-get update
+  131  sudo add-apt-repository ppa:webupd8team/java
+  132  sudo add-apt-repository PPA:webupd8team/java
+  133  sudo add-apt-repository ppa:webupd8team/java
+  134  sudo apt-get install oracle-java12-installer
+  135  sudo apt-get install oracle-java-installer
+  136  sudo apt-get install oracle-java14-installer
+  137  clear
+  138  sudo apt install default-jdk
+  139  sudo apt install default-jre
+  140  java -version
+  141  java
+  142  sudo nano /etc/environment
+  143  echo $JAVA_HOME
+  144  sudo snap install --classic eclipse
+  145  sudo apt-get install javaEE
+  146  sudo apt-get remove eclipse
+  147  history
+  148  sudo snap remove eclipse
+  149  mysql
+  150  sudo apt update sudo apt install mysql-workbench
+  151  sudo apt update
+  152  sudo apt install mysql-workbench
+  153  sudo apt-get update --fix-missing
+  154  sudo apt install mysql-workbench
+  155  mysql workbench
+  156  mysql-workbench
+  157  mysql - testuser -p
+  158  mysql -testuser -p
+  159  sudo service apache2 restart
+  160  mysql --version
+  161  mysql -utestuser -p
+  162  sudo mysql -utestuser -p
+  163  mysql -utestuser -p
+  164  mysql -u testuser -p
+  165  sudo apt-get remove --purge mysql *
+  166  sudo apt-get purge mysql *
+  167  sudo apt-get autoremove.
+  168  clear
+  169  ls /etc/mysql
+  170  sudo ls /var/lib/mysql
+  171  sudo rm -r /etc/mysql /var/lib/mysql 
+  172  sudo rm -r /var/log/mysql
+  173  sudo apt autoremove
+  174  sudo apt update
+  175  sudo apt install mysql-server
+  176  sudo mysql_secure_installation
+  177  sudo apt install mysql-server
+  178  htop
+  179  sudo apt install htop
+  180  sudo apt-get update
+  181  sudo apt install htop
+  182  sudo service apache2 restart
+  183  sudo tar xvzf Téléchargements/utserver.tar.gz -C /opt/
+  184  sudo chmod -R 755 /opt/utorrent-server-alpha-v3_3/
+  185  sudo ln -s /opt/utorrent-server-alpha-v3_3/utserver /usr/bin/utserver
+  186  utserver -settingspath /opt/utorrent-server-alpha-v3_3/
+  187  sudo add-apt-repository ppa: drivers-graphiques / ppa
+  188  sudo add-apt-repository
+  189  sudo add-apt-repository ppa: drivers-graphiques
+  190  sudo dpkg –add-architecture i386
+  191  sudo apt installer mesa-vulkan-drivers mesa-vulkan-drivers: i386
+  192  sudo add-apt-repository ppa: lutris-team / lutris
+  193  clear
+  194  wget https://dl.winehq.org/wine-builds/Release.key
+  195  apt-key add Release.key
+  196  sudo apt-key add Release.key
+  197  sudo apt-add-repository https://dl.winehq.org/wine-builds/ubuntu/
+  198  sudo apt-get update
+  199  sudo apt-get install --install-recommends winehq-devel -y
+  200  sudo apt update
+  201  sudo nano /etc/apt/sources.list
+  202  sudo nano /etc/apt/sources.list.d/webupd8team-ubuntu-java-bionic.list
+  203  sudo apt update
+  204  sudo nano /etc/apt/sources.list
+  205  sudo apt update
+  206  sudo apt install slack
+  207  sudo snap install slack
+  208  sudo dpkg -i google-chrome-stable_current_amd64
+  209  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+  210  git init
+  211  git add README.md
+  212  git add webstore
+  213  .gitignore
+  214  exit telegram 
+  215  ls -l
+  216  cd //
+  217  cd
+  218  exit
+  219  git init
+  220  git add index.html
+  221  git commit -m 'init'
+  222  git remote add origin https://github.com/leonelmaken/Jeu.git
+  223  git push -u origin master
+  224  clear
+  225  git init
+  226  git commit -m 'init'
+  227  git push -u origin master
+  228  telegram exit
+  229  quit telegram
+  230  kill telegram
+  231  ps -ef | grep telegram
+  232  kill 1271 
+  233  kill 1071
+  234  ps -ef | grep telegram
+  235  kill 1071
+  236  kill 1071d
+  237  kill 1071
+  238  sudo kill 1071
+  239  sudo stop 1071
+  240  ps kill 1071
+  241  ps kill -9 1071
+  242  ps -ef | grep github
+  243  ps kill -9 1508 
+  244  kill -9 1508 
+  245  cd ..
+  246  ls -l
+  247  git clone https://gitea-lab.boostcompagny.com/maken.dongmo/Webvente.git
+  248  sudo git clone https://gitea-lab.boostcompagny.com/maken.dongmo/Webvente.git
+  249  ls -l /etc/ssl/certs/ca-certificates.crt
+  250  les /etc/ssl/certs/ca-certificates.crt
+  251  less /etc/ssl/certs/ca-certificates.crt
+  252  sudo cp /etc/ssl/certs/{ca-certificates.crt,ca-certificates.crt.bkp}
+  253  sudo vim  /etc/ssl/certs/ca-certificates.crt
+  254  sudo apt install vim -y
+  255  sudo apt install -f
+  256  lsb_release -a
+  257  sudo apt install vi -y
+  258  vi test
+  259  sudo vi  /etc/ssl/certs/ca-certificates.crt
+  260  sudo update-ca-certificates 
+  261  sudo git clone https://gitea-lab.boostcompagny.com/maken.dongmo/Webvente.git
+  262  openssl s_client -connect https://gitea-lab.boostcompagny.com
+  263  openssl s_client -connect https://gitea-lab.boostcompagny.com:443
+  264  openssl --help
+  265  man openssl
+  266  openssl s_client -connect gitea-lab.boostcompagny.com:443
+  267  cd WebStore
+  268  git push -u origin master
+  269  sudo update-ca-certificates 
+  270  sudo vi /usr/local/share/ca-certificates/gitea-lab/boost.crt
+  271  sudo vi /usr/local/share/ca-certificates/gitea-lab.boost.crt
+  272  sudo vi  /etc/ssl/certs/ca-certificates.crt
+  273  sudo update-ca-certificates 
+  274  git push -u origin master
+  275  sudo cp /etc/ssl/certs/{ca-certificates.crt.bkp,ca-certificates.crt}
+  276  sudo update-ca-certificates 
+  277  sudo git clone https://gitea-lab.boostcompagny.com/maken.dongmo/Webvente.git
+  278  git push -u origin master
+  279  sudo gedit /etc/ssl/certs/ca-certificates.crt 
+  280  git push -u origin master
+  281  sudo apt install --reinstall ca-certificates
+  282  git push -u origin master
+  283  sudo mkdir /usr/local/share/ca-certificates/cacert.org
+  284  sudo wget -P /usr/local/share/ca-certificates/cacert.org http://www.cacert.org/certs/root.crt http://www.cacert.org/certs/class3.crt
+  285  sudo update-ca-certificates
+  286  git config --global http.sslCAinfo /etc/ssl/certs/ca-certificates.crt
+  287  git push -u origin master
+  288  clear
+  289  export GIT_SSL_NO_VERIFY=1
+  290  git push -u origin master
+  291  ls
+  292  git add .
+  293  git add README.md
+  294  git add src
+  295  git commit -m "first commit"
+  296  git config --global leonel.dongmo
+  297  git config --global maken.dongmo@boostcompagny.com
+  298  git config --global user.name "Votre Nom"
+  299  git config --global user.name leonel.dongmo
+  300  git config --global user.email maken.dongmo@boostcompagny.com
+  301  git commit -m "first commit"
+  302  git remote add origin https://gitea-lab.boostcompagny.com/maken.dongmo/Webstore.git
+  303  git push -u origin master
+  304  git init
+  305  git add WebStore
+  306  git add .
+  307  git commit -m 
+  308  git commit -m "frist commit"
+  309  git remote add origin https://gitea-lab.boostcompagny.com/maken.dongmo/Webstore.git
+  310  git push -u origin master
+  311  git push 
+  312  git remote push  https://gitea-lab.boostcompagny.com/maken.dongmo
+  313  git remote add origin https://gitea-lab.boostcompagny.com/maken.dongmo/Webstore
+  314  git push -u origin mqster
+  315  git push -u origin master
+  316  ping google.com
+  317  git push -u origin master
+  318  git config
+  319  git config --global
+  320  git config --help
+  321  git config --list
+  322  git remote add origin https://gitea-lab.boostcompagny.com/maken.dongmo/Webstore.git
+  323  git push -u origin master
+  324  git remote add origin https://gitea-lab.boostcompagny.com/maken.dongmo/Webstore.git
+  325  git push -u origin master
+  326  cd ..
+  327  ls
+  328  cd WebStore
+  329  git init
+  330  git status
+  331  nano .gitignore 
+  332  git status
+  333  git add . 
+  334  git commit -m "commit 1"
+  335  git status
+  336  git remote add origin https://gitea-lab.boostcompagny.com/maken.dongmo/Webstore.git
+  337  git push -u origin master
+  338  git remote remove https://gitea-lab.boostcompagny.com/maken.dongmo/Webstore.git
+  339  git remote remove origin https://gitea-lab.boostcompagny.com/maken.dongmo/Webstore.git
+  340  git remote remove https://gitea-lab.boostcompagny.com/maken.dongmo/Webstore
+  341  git remote remove 'https://gitea-lab.boostcompagny.com/maken.dongmo/Webstore.git'
+  342  git remote remove 'gitea-lab.boostcompagny.com/maken.dongmo/Webstore.git'
+  343  git remote remove origin 
+  344  git status
+  345  git remote add origin https://gitea-lab.boostcompagny.com/maken.dongmo/Webstore 
+  346  git push -u origin master
+  347  git remote remove origin 
+  348  git config --list
+  349  git config --local  --list
+  350  git remote add origin https://gitea-lab.boostcompagny.com/maken.dongmo/Webstore 
+  351  git config --local  --list
+  352  git remote remove origin 
+  353  git config --local  --list
+  354  git config --local --remove-section user
+  355  git remote add origin https://gitea-lab.boostcompagny.com/maken.dongmo/Webvente.git 
+  356  git push -u origin master 
+  357  git config --list
+  358  git config --global --unset user.email
+  359  git config --global --unset user
+  360  git config --global --unset user.name
+  361  git config --list
+  362  git push -u origin master 
+  363  git config --list
+  364  git config --local  --list
+  365  git config --system --remove-section user
+  366  sudo git config --system --remove-section user
+  367  git config --system --list
+  368  git config --global --edit
+  369  git push -u origin master 
+  370  ping www.google.com
+  371  sudo apt install apt-transport-https ca-certificates
+  372  less /etc/apt/sources.list
+  373  sudo cp /etc/apt/{sources.list,sources.list.bkp2}
+  374  sudo vi /etc/apt/sources.list
+  375  sudo apt update
+  376  sudo apt install apt-transport-https ca-certificates
+  377  cleqr
+  378  clear
+  379  sudo apt install apt-transport-https ca-certificates
+  380  sudo nano /usr/sbin/update-info-dir 
+  381  dpkg --configure
+  382  sudo dpkg --configure
+  383  sudo apt dpkg --configure
+  384  sudo apt --configure
+  385  cleqer
+  386  clear
+  387  sudo apt update
+  388  sudo apt install apt-transport-https ca-certificates
+  389  sudo nano /etc/environment 
+  390  sudo apt install apt-transport-https ca-certificates
+  391  git init
+  392  git add .
+  393  git commit -m "first commit"
+  394  git remote add origin https://gitea-lab.boostcompagny.com/maken.dongmo/Produit.git
+  395  git push -u origin master
+  396  clear
+  397  git --local
+  398  git config --local --list
+  399  git config  --list
+  400  historique
+  401  history > historique.txt
